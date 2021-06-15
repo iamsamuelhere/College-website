@@ -12,9 +12,13 @@ nav{
 
 .links{
     color:white !important;
+    font-size: 0.9rem;
+
+    
 }
+
 .links:hover{
     border-bottom: 2px solid white;
 }
-
+  
 
